@@ -1,1 +1,1 @@
-Esto es una prueba para taller 1
+Esto no es una prueba de conflicto para taller 1
